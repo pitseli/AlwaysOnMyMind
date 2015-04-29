@@ -1,0 +1,158 @@
+Relevant vs Irrelevant using normal for dataset 1_ready.mat
+# Target: 684 # Non-Target: 3465 Overall: 4149
+----------------------------------
+separating Relevant vs Irrelevant using normal for dataset 1_ready.mat on 3112 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.83515     0          0     0     2599    513    3112     
+ 
+separating Relevant vs Irrelevant using normal for dataset 1_ready.mat on 1037 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.8351      0          0     0     866    171    1037     
+ 
+Relevant vs Irrelevant using smoothing for dataset 1_ready.mat
+# Target: 684 # Non-Target: 3465 Overall: 4149
+----------------------------------
+separating Relevant vs Irrelevant using smoothing for dataset 1_ready.mat on 3112 Training Data
+
+    precision    recall     accuracy    F1Score    TP     FP     TN     FN     TotalData
+    _________    _______    ________    _______    ___    __    ____    ___    _________
+    0.68803      0.31384    0.86343     0.43106    161    73    2526    352    3112     
+ 
+separating Relevant vs Irrelevant using smoothing for dataset 1_ready.mat on 1037 Test Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    _______    ________    _______    __    __    ___    ___    _________
+    0.74242      0.28655    0.86596     0.4135     49    17    849    122    1037     
+ 
+studyidx =
+     4
+Relevant vs Irrelevant using normal for dataset 2_ready.mat
+# Target: 768 # Non-Target: 3935 Overall: 4703
+----------------------------------
+separating Relevant vs Irrelevant using normal for dataset 2_ready.mat on 3528 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.83673     0          0     0     2952    576    3528     
+ 
+separating Relevant vs Irrelevant using normal for dataset 2_ready.mat on 1175 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.8366      0          0     0     983    192    1175     
+ 
+Relevant vs Irrelevant using smoothing for dataset 2_ready.mat
+# Target: 768 # Non-Target: 3935 Overall: 4703
+----------------------------------
+separating Relevant vs Irrelevant using smoothing for dataset 2_ready.mat on 3528 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.83673     0          0     0     2952    576    3528     
+ 
+separating Relevant vs Irrelevant using smoothing for dataset 2_ready.mat on 1175 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.8366      0          0     0     983    192    1175     
+ 
+studyidx =
+     4
+Relevant vs Irrelevant using normal for dataset 3_ready.mat
+# Target: 387 # Non-Target: 2966 Overall: 3353
+----------------------------------
+separating Relevant vs Irrelevant using normal for dataset 3_ready.mat on 2516 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.88434     0          0     0     2225    291    2516     
+ 
+separating Relevant vs Irrelevant using normal for dataset 3_ready.mat on 837 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.8853      0          0     0     741    96    837      
+ 
+Relevant vs Irrelevant using smoothing for dataset 3_ready.mat
+# Target: 387 # Non-Target: 2966 Overall: 3353
+----------------------------------
+separating Relevant vs Irrelevant using smoothing for dataset 3_ready.mat on 2516 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.88434     0          0     0     2225    291    2516     
+ 
+separating Relevant vs Irrelevant using smoothing for dataset 3_ready.mat on 837 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.8853      0          0     0     741    96    837      
+ 
+studyidx =
+     4
+Relevant vs Irrelevant using normal for dataset 4_ready.mat
+# Target: 482 # Non-Target: 2513 Overall: 2995
+----------------------------------
+separating Relevant vs Irrelevant using normal for dataset 4_ready.mat on 2247 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.8389      0          0     0     1885    362    2247     
+ 
+separating Relevant vs Irrelevant using normal for dataset 4_ready.mat on 748 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.83957     0          0     0     628    120    748      
+ 
+Relevant vs Irrelevant using smoothing for dataset 4_ready.mat
+# Target: 482 # Non-Target: 2513 Overall: 2995
+----------------------------------
+separating Relevant vs Irrelevant using smoothing for dataset 4_ready.mat on 2247 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.8389      0          0     0     1885    362    2247     
+ 
+separating Relevant vs Irrelevant using smoothing for dataset 4_ready.mat on 748 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.83957     0          0     0     628    120    748      
+ 
+studyidx =
+     4
+Relevant vs Irrelevant using normal for dataset 5_ready.mat
+# Target: 615 # Non-Target: 3315 Overall: 3930
+----------------------------------
+separating Relevant vs Irrelevant using normal for dataset 5_ready.mat on 2949 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.84334     0          0     0     2487    462    2949     
+ 
+separating Relevant vs Irrelevant using normal for dataset 5_ready.mat on 981 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.84404     0          0     0     828    153    981      
+ 
+Relevant vs Irrelevant using smoothing for dataset 5_ready.mat
+# Target: 615 # Non-Target: 3315 Overall: 3930
+----------------------------------
+separating Relevant vs Irrelevant using smoothing for dataset 5_ready.mat on 2949 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ____    ___    _________
+    NaN          0         0.84334     0          0     0     2487    462    2949     
+ 
+separating Relevant vs Irrelevant using smoothing for dataset 5_ready.mat on 981 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN     TotalData
+    _________    ______    ________    _______    __    __    ___    ___    _________
+    NaN          0         0.84404     0          0     0     828    153    981      
+ 

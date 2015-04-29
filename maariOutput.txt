@@ -1,0 +1,450 @@
+Cats vs Rest using normal for dataset 1_ready.mat
+# Target: 89 # Non-Target: 4060 Overall: 4149
+----------------------------------
+separating Cats vs Rest using normal for dataset 1_ready.mat on 3112 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97847     0          0     0     3045    67    3112     
+ 
+separating Cats vs Rest using normal for dataset 1_ready.mat on 1037 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97878     0          0     0     1015    22    1037     
+ 
+Cats vs Rest using smoothing for dataset 1_ready.mat
+# Target: 89 # Non-Target: 4060 Overall: 4149
+----------------------------------
+separating Cats vs Rest using smoothing for dataset 1_ready.mat on 3112 Training Data
+
+    precision    recall     accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    _______    ________    _______    __    __    ____    __    _________
+    0.96154      0.37313    0.98618     0.53763    25    1     3044    42    3112     
+ 
+separating Cats vs Rest using smoothing for dataset 1_ready.mat on 1037 Test Data
+
+    precision    recall     accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    _______    ________    _______    __    __    ____    __    _________
+    1            0.31818    0.98554     0.48276    7     0     1015    15    1037     
+ 
+Relevant Self vs Irrelevant Self using normal for dataset 1_ready.mat
+# Target: 87 # Non-Target: 200 Overall: 287
+----------------------------------
+separating Relevant Self vs Irrelevant Self using normal for dataset 1_ready.mat on 216 Training Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    _______    ________    _______    __    __    ___    __    _________
+    0.64444      0.43939    0.75463     0.52252    29    16    134    37    216      
+ 
+separating Relevant Self vs Irrelevant Self using normal for dataset 1_ready.mat on 71 Test Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    _______    ________    _______    __    __    __    __    _________
+    0.625        0.47619    0.76056     0.54054    10    6     44    11    71       
+ 
+Relevant Self vs Irrelevant Self using smoothing for dataset 1_ready.mat
+# Target: 87 # Non-Target: 200 Overall: 287
+----------------------------------
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 1_ready.mat on 216 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    0.65957      0.4697    0.76389     0.54867    31    16    134    35    216      
+ 
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 1_ready.mat on 71 Test Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    _______    ________    _______    __    __    __    __    _________
+    0.625        0.47619    0.76056     0.54054    10    6     44    11    71       
+ 
+Known vs Unknown using normal for dataset 1_ready.mat
+# Target: 2920 # Non-Target: 853 Overall: 3773
+----------------------------------
+separating Known vs Unknown using normal for dataset 1_ready.mat on 2830 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.77385      1         0.77385     0.87251    2190    640    0     0     2830     
+ 
+separating Known vs Unknown using normal for dataset 1_ready.mat on 943 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.77413      1         0.77413     0.87268    730    213    0     0     943      
+ 
+Known vs Unknown using smoothing for dataset 1_ready.mat
+# Target: 2920 # Non-Target: 853 Overall: 3773
+----------------------------------
+separating Known vs Unknown using smoothing for dataset 1_ready.mat on 2830 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.77385      1         0.77385     0.87251    2190    640    0     0     2830     
+ 
+separating Known vs Unknown using smoothing for dataset 1_ready.mat on 943 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.77413      1         0.77413     0.87268    730    213    0     0     943      
+ 
+Cats vs Rest using normal for dataset 2_ready.mat
+# Target: 97 # Non-Target: 4606 Overall: 4703
+----------------------------------
+separating Cats vs Rest using normal for dataset 2_ready.mat on 3528 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97931     0          0     0     3455    73    3528     
+ 
+separating Cats vs Rest using normal for dataset 2_ready.mat on 1175 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97957     0          0     0     1151    24    1175     
+ 
+Cats vs Rest using smoothing for dataset 2_ready.mat
+# Target: 97 # Non-Target: 4606 Overall: 4703
+----------------------------------
+separating Cats vs Rest using smoothing for dataset 2_ready.mat on 3528 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97931     0          0     0     3455    73    3528     
+ 
+separating Cats vs Rest using smoothing for dataset 2_ready.mat on 1175 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97957     0          0     0     1151    24    1175     
+ 
+Relevant Self vs Irrelevant Self using normal for dataset 2_ready.mat
+# Target: 42 # Non-Target: 205 Overall: 247
+----------------------------------
+separating Relevant Self vs Irrelevant Self using normal for dataset 2_ready.mat on 186 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.82796     0          0     0     154    32    186      
+ 
+separating Relevant Self vs Irrelevant Self using normal for dataset 2_ready.mat on 61 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    ______    ________    _______    __    __    __    __    _________
+    NaN          0         0.83607     0          0     0     51    10    61       
+ 
+Relevant Self vs Irrelevant Self using smoothing for dataset 2_ready.mat
+# Target: 42 # Non-Target: 205 Overall: 247
+----------------------------------
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 2_ready.mat on 186 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.82796     0          0     0     154    32    186      
+ 
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 2_ready.mat on 61 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    ______    ________    _______    __    __    __    __    _________
+    NaN          0         0.83607     0          0     0     51    10    61       
+ 
+Known vs Unknown using normal for dataset 2_ready.mat
+# Target: 3566 # Non-Target: 793 Overall: 4359
+----------------------------------
+separating Known vs Unknown using normal for dataset 2_ready.mat on 3270 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.81804      1         0.81804     0.89992    2675    595    0     0     3270     
+ 
+separating Known vs Unknown using normal for dataset 2_ready.mat on 1089 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.81818      1         0.81818     0.9        891    198    0     0     1089     
+ 
+Known vs Unknown using smoothing for dataset 2_ready.mat
+# Target: 3566 # Non-Target: 793 Overall: 4359
+----------------------------------
+separating Known vs Unknown using smoothing for dataset 2_ready.mat on 3270 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.81804      1         0.81804     0.89992    2675    595    0     0     3270     
+ 
+separating Known vs Unknown using smoothing for dataset 2_ready.mat on 1089 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.81818      1         0.81818     0.9        891    198    0     0     1089     
+ 
+Cats vs Rest using normal for dataset 3_ready.mat
+# Target: 75 # Non-Target: 3278 Overall: 3353
+----------------------------------
+separating Cats vs Rest using normal for dataset 3_ready.mat on 2516 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97734     0          0     0     2459    57    2516     
+ 
+separating Cats vs Rest using normal for dataset 3_ready.mat on 837 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.97849     0          0     0     819    18    837      
+ 
+Cats vs Rest using smoothing for dataset 3_ready.mat
+# Target: 75 # Non-Target: 3278 Overall: 3353
+----------------------------------
+separating Cats vs Rest using smoothing for dataset 3_ready.mat on 2516 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97734     0          0     0     2459    57    2516     
+ 
+separating Cats vs Rest using smoothing for dataset 3_ready.mat on 837 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.97849     0          0     0     819    18    837      
+ 
+Relevant Self vs Irrelevant Self using normal for dataset 3_ready.mat
+# Target: 40 # Non-Target: 192 Overall: 232
+----------------------------------
+separating Relevant Self vs Irrelevant Self using normal for dataset 3_ready.mat on 174 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.82759     0          0     0     144    30    174      
+ 
+separating Relevant Self vs Irrelevant Self using normal for dataset 3_ready.mat on 58 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    ______    ________    _______    __    __    __    __    _________
+    NaN          0         0.82759     0          0     0     48    10    58       
+ 
+Relevant Self vs Irrelevant Self using smoothing for dataset 3_ready.mat
+# Target: 40 # Non-Target: 192 Overall: 232
+----------------------------------
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 3_ready.mat on 174 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.82759     0          0     0     144    30    174      
+ 
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 3_ready.mat on 58 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    ______    ________    _______    __    __    __    __    _________
+    NaN          0         0.82759     0          0     0     48    10    58       
+ 
+Known vs Unknown using normal for dataset 3_ready.mat
+# Target: 2386 # Non-Target: 660 Overall: 3046
+----------------------------------
+separating Known vs Unknown using normal for dataset 3_ready.mat on 2285 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.78337      1         0.78337     0.87853    1790    495    0     0     2285     
+ 
+separating Known vs Unknown using normal for dataset 3_ready.mat on 761 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.78318      1         0.78318     0.87841    596    165    0     0     761      
+ 
+Known vs Unknown using smoothing for dataset 3_ready.mat
+# Target: 2386 # Non-Target: 660 Overall: 3046
+----------------------------------
+separating Known vs Unknown using smoothing for dataset 3_ready.mat on 2285 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.78337      1         0.78337     0.87853    1790    495    0     0     2285     
+ 
+separating Known vs Unknown using smoothing for dataset 3_ready.mat on 761 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.78318      1         0.78318     0.87841    596    165    0     0     761      
+ 
+Cats vs Rest using normal for dataset 4_ready.mat
+# Target: 78 # Non-Target: 2917 Overall: 2995
+----------------------------------
+separating Cats vs Rest using normal for dataset 4_ready.mat on 2247 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97374     0          0     0     2188    59    2247     
+ 
+separating Cats vs Rest using normal for dataset 4_ready.mat on 748 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.9746      0          0     0     729    19    748      
+ 
+Cats vs Rest using smoothing for dataset 4_ready.mat
+# Target: 78 # Non-Target: 2917 Overall: 2995
+----------------------------------
+separating Cats vs Rest using smoothing for dataset 4_ready.mat on 2247 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97374     0          0     0     2188    59    2247     
+ 
+separating Cats vs Rest using smoothing for dataset 4_ready.mat on 748 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.9746      0          0     0     729    19    748      
+ 
+Relevant Self vs Irrelevant Self using normal for dataset 4_ready.mat
+# Target: 28 # Non-Target: 224 Overall: 252
+----------------------------------
+separating Relevant Self vs Irrelevant Self using normal for dataset 4_ready.mat on 189 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.88889     0          0     0     168    21    189      
+ 
+separating Relevant Self vs Irrelevant Self using normal for dataset 4_ready.mat on 63 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    ______    ________    _______    __    __    __    __    _________
+    NaN          0         0.88889     0          0     0     56    7     63       
+ 
+Relevant Self vs Irrelevant Self using smoothing for dataset 4_ready.mat
+# Target: 28 # Non-Target: 224 Overall: 252
+----------------------------------
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 4_ready.mat on 189 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.88889     0          0     0     168    21    189      
+ 
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 4_ready.mat on 63 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    ______    ________    _______    __    __    __    __    _________
+    NaN          0         0.88889     0          0     0     56    7     63       
+ 
+Known vs Unknown using normal for dataset 4_ready.mat
+# Target: 2191 # Non-Target: 474 Overall: 2665
+----------------------------------
+separating Known vs Unknown using normal for dataset 4_ready.mat on 2000 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.822        1         0.822       0.90231    1644    356    0     0     2000     
+ 
+separating Known vs Unknown using normal for dataset 4_ready.mat on 665 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.82256      1         0.82256     0.90264    547    118    0     0     665      
+ 
+Known vs Unknown using smoothing for dataset 4_ready.mat
+# Target: 2191 # Non-Target: 474 Overall: 2665
+----------------------------------
+separating Known vs Unknown using smoothing for dataset 4_ready.mat on 2000 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.822        1         0.822       0.90231    1644    356    0     0     2000     
+ 
+separating Known vs Unknown using smoothing for dataset 4_ready.mat on 665 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.82256      1         0.82256     0.90264    547    118    0     0     665      
+ 
+Cats vs Rest using normal for dataset 5_ready.mat
+# Target: 86 # Non-Target: 3844 Overall: 3930
+----------------------------------
+separating Cats vs Rest using normal for dataset 5_ready.mat on 2948 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97795     0          0     0     2883    65    2948     
+ 
+separating Cats vs Rest using normal for dataset 5_ready.mat on 982 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.97862     0          0     0     961    21    982      
+ 
+Cats vs Rest using smoothing for dataset 5_ready.mat
+# Target: 86 # Non-Target: 3844 Overall: 3930
+----------------------------------
+separating Cats vs Rest using smoothing for dataset 5_ready.mat on 2948 Training Data
+
+    precision    recall    accuracy    F1Score    TP    FP     TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ____    __    _________
+    NaN          0         0.97795     0          0     0     2883    65    2948     
+ 
+separating Cats vs Rest using smoothing for dataset 5_ready.mat on 982 Test Data
+
+    precision    recall    accuracy    F1Score    TP    FP    TN     FN    TotalData
+    _________    ______    ________    _______    __    __    ___    __    _________
+    NaN          0         0.97862     0          0     0     961    21    982      
+ 
+Relevant Self vs Irrelevant Self using normal for dataset 5_ready.mat
+# Target: 78 # Non-Target: 117 Overall: 195
+----------------------------------
+separating Relevant Self vs Irrelevant Self using normal for dataset 5_ready.mat on 147 Training Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    _______    ________    _______    __    __    __    __    _________
+    0.57143      0.54237    0.65306     0.55652    32    24    64    27    147      
+ 
+separating Relevant Self vs Irrelevant Self using normal for dataset 5_ready.mat on 48 Test Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    _______    ________    _______    __    __    __    __    _________
+    0.5          0.52632    0.60417     0.51282    10    10    19    9     48       
+ 
+Relevant Self vs Irrelevant Self using smoothing for dataset 5_ready.mat
+# Target: 78 # Non-Target: 117 Overall: 195
+----------------------------------
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 5_ready.mat on 147 Training Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    _______    ________    _______    __    __    __    __    _________
+    0.56         0.47458    0.63946     0.51376    28    22    66    31    147      
+ 
+separating Relevant Self vs Irrelevant Self using smoothing for dataset 5_ready.mat on 48 Test Data
+
+    precision    recall     accuracy    F1Score    TP    FP    TN    FN    TotalData
+    _________    _______    ________    _______    __    __    __    __    _________
+    0.5          0.42105    0.60417     0.45714    8     8     21    11    48       
+ 
+Known vs Unknown using normal for dataset 5_ready.mat
+# Target: 2959 # Non-Target: 690 Overall: 3649
+----------------------------------
+separating Known vs Unknown using normal for dataset 5_ready.mat on 2738 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.81081      1         0.81081     0.89552    2220    518    0     0     2738     
+ 
+separating Known vs Unknown using normal for dataset 5_ready.mat on 911 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.8112       1         0.8112      0.89576    739    172    0     0     911      
+ 
+Known vs Unknown using smoothing for dataset 5_ready.mat
+# Target: 2959 # Non-Target: 690 Overall: 3649
+----------------------------------
+separating Known vs Unknown using smoothing for dataset 5_ready.mat on 2738 Training Data
+
+    precision    recall    accuracy    F1Score     TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ____    ___    __    __    _________
+    0.81081      1         0.81081     0.89552    2220    518    0     0     2738     
+ 
+separating Known vs Unknown using smoothing for dataset 5_ready.mat on 911 Test Data
+
+    precision    recall    accuracy    F1Score    TP     FP     TN    FN    TotalData
+    _________    ______    ________    _______    ___    ___    __    __    _________
+    0.8112       1         0.8112      0.89576    739    172    0     0     911      
+ 
